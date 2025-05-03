@@ -11,7 +11,7 @@ O projeto consiste em um conjunto de testes automatizados que simulam a interaç
 
 * Sugestões de Pesquisa (Autocomplete);
 * Menu de Navegação;
-* Carregamento e Desempenho:
+* Carregamento da tela:
 
 # Tecnologias Utilizadas
 * Selenium
