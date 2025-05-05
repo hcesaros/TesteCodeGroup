@@ -34,6 +34,7 @@ O projeto está organizado no padrao PageObject da seguinte forma:
 * src/test/resources/features: Contém arquivos de feature.
 * driver: Pasta que armazena o chromedrive para a execuçao do selenium.
 * pom.xml: Arquivo de configuração do projeto.
+* target/cucumber-reports: Arquivos de relatórios das execuções dos testes automatizados
 
 # Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com suas sugestões de melhorias ou novos testes.
